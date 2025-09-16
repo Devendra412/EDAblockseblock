@@ -31,9 +31,10 @@ The analysis explores how passenger survival was influenced by class, sex, age, 
     <img width="865" height="620" alt="Screenshot 2025-09-17 004429" src="https://github.com/user-attachments/assets/77cdb5bf-ef1a-4315-8869-cce42578042e" />
 
 6. **Fare Distribution by Class**
-     <img width="881" height="615" alt="Screenshot 2025-09-17 004439" src="https://github.com/user-attachments/assets/5e6789fd-c87c-493f-81df-85020095c359" />
+    <img width="881" height="615" alt="Screenshot 2025-09-17 004439" src="https://github.com/user-attachments/assets/5e6789fd-c87c-493f-81df-85020095c359" />
 
 7. **Correlation Heatmap**
+   
     <img width="635" height="592" alt="Screenshot 2025-09-17 004449" src="https://github.com/user-attachments/assets/2215d640-e7a7-4dc9-b96d-3fc10784e739" />
 
 
